@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "description": "",
+  "version": "0.1.0",
+  "scripts": {
+      "build": "cp index.html public/"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
